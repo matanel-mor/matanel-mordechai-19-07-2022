@@ -25,9 +25,9 @@
 1. npm i cypress --save-dev
 
 ## running
-1. To run in GUI mode:
-    a. npx cypress open
-    b. select e2e
+1. To run in GUI mode:\
+    a. npx cypress open\
+    b. select e2e\
     c. click on test from the list to run it
 
 2. To run in headless mode: npm test
