@@ -30,4 +30,5 @@
     b. select e2e\
     c. click on test from the list to run it
 
-2. To run in headless mode:\ npm test
+2. To run in headless mode:\
+    npm test
